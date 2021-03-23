@@ -5,7 +5,7 @@
 ### 1. Fork 本仓库
 
 
-### 2. 授权仓库可运行Action
+### 2. 授权仓库可运行Action1
 
 ![](https://github.com/peng4740/HiCnUnicom/raw/master/assets/actions1.png)
 ![](https://github.com/peng4740/HiCnUnicom/raw/master/assets/actions2.png)
